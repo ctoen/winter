@@ -1,0 +1,7 @@
+name: "Winter"
+navbar:
+  title: "Winter"
+  left:
+    - text: "Winter"
+      href: index.html
+output_dir: "docs"
