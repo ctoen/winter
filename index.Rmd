@@ -31,4 +31,10 @@ if(date_today == "2020-11-26") {
 ```
 
 
-
+```{r ifchunk_time, echo =F}
+time_today <- Sys.time()
+if(time_today == "2020-11-25 13:20:58 CET") {
+  print("Yes, now's the time") } else {
+    print("Wait a little longer")
+  }
+```
