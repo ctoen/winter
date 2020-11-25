@@ -315,7 +315,17 @@ $(document).ready(function () {
 <div id="hello-hello-wie-hebben-we-daar" class="section level3">
 <h3>Hello hello, wie hebben we daar?</h3>
 <p><img src="images/winterspelen.jpg" /></p>
+<pre class="r"><code>date_today &lt;- Sys.Date()
+if(date_today == &quot;2020-11-26&quot;) {
+  print(&quot;yes&quot;) } else {
+    print(&quot;Wait a little longer&quot;)
+  }</code></pre>
 <pre><code>## [1] &quot;Wait a little longer&quot;</code></pre>
+<pre class="r"><code>time_today &lt;- Sys.time()
+if(time_today == &quot;2020-11-25 13:20:58 CET&quot;) {
+  print(&quot;Yes, now&#39;s the time&quot;) } else {
+    print(&quot;Wait a little longer&quot;)
+  }</code></pre>
 <pre><code>## [1] &quot;Wait a little longer&quot;</code></pre>
 </div>
 

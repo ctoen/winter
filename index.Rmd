@@ -22,7 +22,7 @@ title: "LabJournalWebsite"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r ifchunk, echo =F}
+```{r ifchunk, echo =T}
 date_today <- Sys.Date()
 if(date_today == "2020-11-26") {
   print("yes") } else {
@@ -31,7 +31,7 @@ if(date_today == "2020-11-26") {
 ```
 
 
-```{r ifchunk_time, echo =F}
+```{r ifchunk_time, echo =T}
 time_today <- Sys.time()
 if(time_today == "2020-11-25 13:20:58 CET") {
   print("Yes, now's the time") } else {
