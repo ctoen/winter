@@ -1,7 +1,7 @@
-name: "Winter"
+name: "het Grote.. Warme.. Kest-Klaas-Connectie-Complot"
 navbar:
-  title: "Winter"
+  title: "het Grote.. Warme.. Kest-Klaas-Connectie-Complot"
   left:
-    - text: "Winter"
+    - text: "In process...."
       href: index.html
 output_dir: "docs"

@@ -1,5 +1,9 @@
 ---
-title: "LabJournalWebsite"
+title: "Waiting..."
+output:
+  html_document: 
+    collapsed: no
+    css: custom.css
 ---
 
 <style type="text/css">
@@ -11,30 +15,21 @@ title: "LabJournalWebsite"
   margin-right: 10px;
 }
 
+ 
+
 </style>
 
-### Hello hello, wie hebben we daar? 
+<br><br><br><br><br>      
+
+> <center>
+Openen op  
+Of  
+NA  
+**15 Dec!**  
+</center>
+
+<br><br><br><br><br>  
 
 
-![](images/winterspelen.jpg)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-```{r ifchunk, echo =T}
-date_today <- Sys.Date()
-if(date_today == "2020-11-26") {
-  print("yes") } else {
-    print("Wait a little longer")
-  }
-```
-
-
-```{r ifchunk_time, echo =T}
-time_today <- Sys.time()
-if(time_today == "2020-11-25 13:20:58 CET") {
-  print("Yes, now's the time") } else {
-    print("Wait a little longer")
-  }
-```
+![](images/P1040160.JPG)
