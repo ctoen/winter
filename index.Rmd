@@ -36,5 +36,5 @@ NA
 
 
 <center>
-![](images/geelpaard.jpg){width=20%}
+![](images/geelpaard.jpg){width=5%}
 </center>
