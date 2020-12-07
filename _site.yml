@@ -2,6 +2,6 @@ name: "Het Grote.. Warme.. Kerst-Klaas-Connectie-Complot"
 navbar:
   title: "Het Grote.. Warme.. Kerst-Klaas-Connectie-Complot"
   left:
-    - text: "In process...."
+    - text: "Almost there!"
       href: index.html
 output_dir: "docs"
