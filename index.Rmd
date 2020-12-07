@@ -19,22 +19,8 @@ output:
 
 </style>
 
-<br><br><br><br><br>      
-*Je kunt deze pagina pas echt ....*  
-<br>
-
-> <center>
-> <br><br>
-Openen op  
-Of  
-NA  
-**15 Dec!**  
-<br><br> 
-</center>
-
 <br><br><br><br><br>  
 
-
 <center>
-![](images/geelpaard.jpg){width=5%}
+![](images/geelpaard.jpg){width=10%}
 </center>
